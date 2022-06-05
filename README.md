@@ -11,10 +11,14 @@ The web page is displayed below showing the filters for date, city, state, count
 
 ![original web page](https://user-images.githubusercontent.com/100876517/172072073-df9a0b8b-d0e1-4af1-8d25-0248f790e9f8.png)
 
+### Filtering the Table
 
+![date filter](https://user-images.githubusercontent.com/100876517/172072590-50406e6e-be55-479d-8523-cd39e4d7c108.png)
 
+![la mesa](https://user-images.githubusercontent.com/100876517/172072607-2271554a-1173-46fa-a8d2-cb9e91215a0c.png)
 
-![Dec Temps DB](https://user-images.githubusercontent.com/100876517/169726808-f140debc-81d2-4c69-b135-b1a909b8ee52.png)
+![date filter wrong](https://user-images.githubusercontent.com/100876517/172072593-f3ced014-1d84-4bdc-a52d-f2167982c847.png)
+
 
 * The average temperature for the month of June is 75 degrees compared to 71 degrees for December.
 * The max temperature for the month of June is 85 degrees compared to 83 degrees for December.
