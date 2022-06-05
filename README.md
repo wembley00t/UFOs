@@ -13,23 +13,18 @@ The web page is displayed below showing the filters for date, city, state, count
 
 ### Filtering the Table
 
-The table allows for users to filter the table for one criteria or multiple criteria at the same time.
+The table allows for users to filter the table for one criteria or multiple criteria at the same time. 
 
 The first image shows the results if filtered only on date.
 
 ![date filter](https://user-images.githubusercontent.com/100876517/172072590-50406e6e-be55-479d-8523-cd39e4d7c108.png)
 
-The second image shows the results if filtered on two criteria.  In this exampple, the two criteria are city and shape.
+The second image shows the results if filtered on two criteria.  In this exampple, the user entered two criteria which are city
+and shape.
 
 ![la mesa](https://user-images.githubusercontent.com/100876517/172072607-2271554a-1173-46fa-a8d2-cb9e91215a0c.png)
 
 
-
-
-* The average temperature for the month of June is 75 degrees compared to 71 degrees for December.
-* The max temperature for the month of June is 85 degrees compared to 83 degrees for December.
-* The minimum temperature for the month of June is 64 degrees compared to 56 degrees for December.  
-  This statistic reflects the most difference between the two months.
 
 ## Summary
 
@@ -39,3 +34,10 @@ One drawback of this table is the user must enter data in the exact format as th
 rather than 1/4/2010, no information will be displayed.  
 
 ![date filter wrong](https://user-images.githubusercontent.com/100876517/172072593-f3ced014-1d84-4bdc-a52d-f2167982c847.png)
+
+### Recommendations
+
+Two recommendations that would be beneficial for the next version of this table include:
+
+** Adding a drop down within each filter so the user knows the options to choose from without having to review the detailed data.
+** Updating so that exact matches do not need to be entered.  Lowercase and uppercase letters could be used for the text data.
