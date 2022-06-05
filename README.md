@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-Dana is data journalist completing an article on UFO sightings.  This includes a dynamic web page of the UFO sightings.  This project is to allow users to filter for multiple criteria at the same time. In addition to the date, filters for the city, state, country, and shape will be added.
+Dana is data journalist completing an article on UFO sightings.  This includes a dynamic web page of the UFO sightings.  This project is to allow users to filter for multiple criteria at the same time when reviewing data on the UFO sightings. In addition to the date, filters for the city, state, country, and shape will be added.
 
 
 ## Results 
@@ -39,5 +39,7 @@ rather than 1/4/2010, no information will be displayed.
 
 Two recommendations that would be beneficial for the next version of this table include:
 
-** Adding a drop down within each filter so the user knows the options to choose from without having to review the detailed data.
-** Updating so that exact matches do not need to be entered.  Lowercase and uppercase letters could be used for the text data.
+* Adding a drop down within each filter so the user knows the options to choose from without having to review the detailed data.  This would allow
+  the user to have a selection of shapes rather than needing to know the shape to enter.  The user may not be familiar with all shapes available.
+* Updating so that exact matches do not need to be entered.  Lowercase and uppercase letters could be used for the text data.
+* Utilizing a date range to give the user added flexibility when filtering data.
