@@ -33,4 +33,9 @@ The second image shows the results if filtered on two criteria.  In this examppl
 
 ## Summary
 
+### Drawback
+
+One drawback of this table is the user must enter data in the exact format as the data is stored.  Below shows if the user enters 1//04/2010 
+rather than 1/4/2010, no information will be displayed.  
+
 ![date filter wrong](https://user-images.githubusercontent.com/100876517/172072593-f3ced014-1d84-4bdc-a52d-f2167982c847.png)
