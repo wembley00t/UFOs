@@ -9,6 +9,8 @@ Dana is data journalist completing an article on UFO sightings.  This includes a
 
 The web page is displayed below showing the filters for date, city, state, country and shape.
 
+![original web page](https://user-images.githubusercontent.com/100876517/172072073-df9a0b8b-d0e1-4af1-8d25-0248f790e9f8.png)
+
 
 
 
